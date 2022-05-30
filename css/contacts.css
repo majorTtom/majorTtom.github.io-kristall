@@ -29,35 +29,35 @@
 .contacts__item:first-child .contacts__icon {
   width: 30px;
   height: 30px;
-  background-image: url(../img/time.png);
+  background-image: url(../img/time.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .contacts__item:nth-child(2) .contacts__icon {
   width: 27px;
   height: 27px;
-  background-image: url(../img/phone.png);
+  background-image: url(../img/phone.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .contacts__item:nth-child(3) .contacts__icon {
   width: 24px;
   height: 24px;
-  background-image: url(../img/wa-b.png);
+  background-image: url(../img/wa-b.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .contacts__item:nth-child(4) .contacts__icon {
   width: 23px;
   height: 23px;
-  background-image: url(../img/inst-b.png);
+  background-image: url(../img/inst-b.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .contacts__item:last-child .contacts__icon {
   width: 22px;
   height: 31px;
-  background-image: url(../img/dot.png);
+  background-image: url(../img/dot.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
