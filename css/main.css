@@ -1025,7 +1025,7 @@
 .map__text-item:first-child .map__text-icon {
   width: 21px;
   height: 30px;
-  background-image: url(../img/dot-w.png);
+  background-image: url(../img/dot-w.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -1035,7 +1035,7 @@
 .map__text-item:last-child .map__text-icon {
   width: 27px;
   height: 27px;
-  background-image: url(../img/time-w.png);
+  background-image: url(../img/time-w.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
