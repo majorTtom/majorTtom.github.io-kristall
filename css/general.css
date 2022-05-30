@@ -475,7 +475,7 @@ a:hover {
   display: block;
   width: 39px;
   height: 42px;
-  background-image: url(../img/inst.png);
+  background-image: url(../img/inst.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -483,7 +483,7 @@ a:hover {
   display: block;
   width: 35px;
   height: 35px;
-  background-image: url(../img/wa.png);
+  background-image: url(../img/wa.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -506,7 +506,7 @@ a:hover {
   width: 75px;
   height: 67px;
   display: block;
-  background-image: url(../img/fttr-lg.png);
+  background-image: url(../img/fttr-lg.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -520,7 +520,7 @@ a:hover {
 }
 .footer__down-jo-l {
   margin-left: 15px;
-  background-image: url(../img/lg.png);
+  background-image: url(../img/lg.svg);
   display: block;
   background-color: contain;
   width: 44px;
