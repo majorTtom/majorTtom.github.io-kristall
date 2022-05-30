@@ -278,6 +278,10 @@
     background-size: 100%;
     margin: 0 auto;
   }
+  
+  .gallery__img__active{
+    background-size: cover !important;
+  }
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 647px) {
   .main {
