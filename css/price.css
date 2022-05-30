@@ -71,7 +71,7 @@
   height: 50px;
   width: 100%;
   display: grid;
-  grid-template-columns: 75% 25%;
+  grid-template-columns: 74% 26%;
 }
 .price__list-item span {
   width: 100%;
