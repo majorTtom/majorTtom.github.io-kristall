@@ -5,6 +5,119 @@
   text-transform: uppercase;
 }
 
+@keyframes db {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.mainn {
+  height: 730px;
+  /* .mainn__wrap */
+  /* .mainn__first */
+  /* .mainn__h */
+  /* .mainn__button */
+  /* .mainn__p */
+  /**/
+  /**/
+  /* .mainn__i */
+  /* .mainn__second */
+  /* .mainn__img-wrap */
+  /* .mainn__img */
+}
+.mainn__wrap {
+  display: grid;
+  grid-template-columns: 40%  60%;
+}
+.mainn__h {
+  margin-top: 180px;
+  display: block;
+  font-family: 'Vollkorn' ,Tahoma, Arial, serif;
+  font-size: 37px;
+  font-weight: bold;
+  width: 570px;
+  text-transform: uppercase;
+}
+.mainn__button {
+  font-family: 'Montserrat','PT Sans', sans-serif;
+  transition: .5s ease;
+  margin-top: 70px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  color: #fff;
+  background-color: #47ABC3;
+  font-size: 16px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.mainn__button:hover {
+  letter-spacing: .5px;
+}
+.mainn__button span {
+  height: 21px;
+}
+.mainn__p {
+  margin-top: 60px;
+  justify-self: end;
+  font-size: 16px;
+  font-family: Montserrat, serif;
+  color: #686161;
+  text-align: start;
+}
+.mainn__span {
+  font-size: 50px;
+  font-family: Montserrat, serif;
+  width: 15px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+.mainn__i-wrap {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 86px;
+  height: 86px;
+  margin-left: 350px;
+  margin-top: 20px;
+}
+.mainn__i {
+  animation: db 4s infinite;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 86px;
+  height: 86px;
+  position: relative;
+  background-image: url(../img/db.png);
+}
+.mainn__img-wrap {
+  overflow: hidden;
+  border-top-left-radius: 140px;
+  position: absolute;
+  right: 0;
+  width: 735px;
+  height: 730px;
+  display: block;
+}
+.mainn__img {
+  transition: 1s ease;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+  background-image: url(../img/2.jpg);
+}
+
 .main {
   height: 590px;
   /* .main__wrap */
