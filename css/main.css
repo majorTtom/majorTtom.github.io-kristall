@@ -35,7 +35,7 @@
   margin-top: 180px;
   display: block;
   font-family: 'Vollkorn' ,Tahoma, Arial, serif;
-  font-size: 37px;
+  font-size: 37px !importnant;
   font-weight: bold;
   width: 570px;
   text-transform: uppercase;
