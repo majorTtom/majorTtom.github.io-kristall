@@ -32,12 +32,12 @@
   grid-template-columns: 40%  60%;
 }
 .mainn__h {
-  margin-top: 180px;
+  margin-top: 180px !important;
   display: block;
   font-family: 'Vollkorn' ,Tahoma, Arial, serif;
-  font-size: 37px !importnant;
+  font-size: 37px !important;
   font-weight: bold;
-  width: 570px  !importnant;
+  width: 570px  !important;
   text-transform: uppercase;
 }
 .mainn__button {
