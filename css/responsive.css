@@ -314,8 +314,8 @@
     margin-top: 80px;
   }
   .main__first-title {
-    font-size: 21px;
-    width: 90%;
+    font-size: 21px !important;
+    width: 90% !important;
     margin: 25px auto;
   }
   .main__button {
