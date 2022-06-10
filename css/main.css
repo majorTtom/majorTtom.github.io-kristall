@@ -37,7 +37,7 @@
   font-family: 'Vollkorn' ,Tahoma, Arial, serif;
   font-size: 37px !importnant;
   font-weight: bold;
-  width: 570px;
+  width: 570px  !importnant;
   text-transform: uppercase;
 }
 .mainn__button {
