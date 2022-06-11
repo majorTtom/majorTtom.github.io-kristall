@@ -371,6 +371,7 @@
   display: none;
 }
 .results__slider-wrap {
+   margin-left: 7%;
   transition: .5s ease;
   position: absolute;
   display: grid;
