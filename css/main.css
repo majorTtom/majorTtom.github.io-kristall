@@ -467,7 +467,7 @@
   text-transform: uppercase;
   color: #000;
   /*border-bottom: 1px solid #000;*/
-  width: 240px;
+  width: 225px;
   display: grid;
   grid-template-columns: 90% 10%;
   height: 28px;
