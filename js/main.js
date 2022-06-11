@@ -18,7 +18,7 @@ const counter = function () {
         newValue = currentValue - 1000 > 0 ? currentValue - 1000 : 0;
       }
 
-      if (newValue === 6000) {
+      if (newValue === 5000) {
       	right.style.display = 'none';
       	result.style.gridTemplateColumns = '1fr';
       }else{
