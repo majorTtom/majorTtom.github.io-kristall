@@ -3,6 +3,7 @@
   font-family: 'Vollkorn', Tahoma, serif;
   font-weight: bold;
   text-transform: uppercase;
+  color: #47abc3;
 }
 
 @keyframes db {
@@ -213,6 +214,7 @@
 }
 .process__title {
   margin-top: 100px;
+  color: #fff !important;
 }
 .process__icon {
   margin-top: 100px;
@@ -601,6 +603,7 @@
 }
 .feed__title {
   padding-top: 65px;
+  color: #fff !important;
 }
 .feed__slider-wrap {
   margin-top: 115px;
@@ -1093,6 +1096,7 @@
   align-items: center;
 }
 .client__title {
+  color: #47abc3 !important;
   font-size: 49px;
   font-family: 'Vollkorn', Tahoma, serif;
   font-weight: bold;
