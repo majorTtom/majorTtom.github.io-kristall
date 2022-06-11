@@ -3,7 +3,6 @@
   font-family: 'Vollkorn', Tahoma, serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #47abc3;
 }
 
 @keyframes db {
@@ -1096,7 +1095,7 @@
   align-items: center;
 }
 .client__title {
-  color: #47abc3 !important;
+/*   color: #47abc3 !important; */
   font-size: 49px;
   font-family: 'Vollkorn', Tahoma, serif;
   font-weight: bold;
