@@ -297,6 +297,10 @@
   .mainn__p {
     text-align: center;
   }
+  
+  .gallery__img__active{
+    width: 90% !important;
+  }
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 647px) {
   .main {
