@@ -1021,9 +1021,9 @@
     align-items: center;
   }
   .main__first-title {
-    font-size: 30px;
+    font-size: 30px !important;
     margin: inherit;
-    width: 90%;
+    width: 90% !important;
   }
   .main__img {
     display: none;
