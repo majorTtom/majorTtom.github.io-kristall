@@ -18,7 +18,7 @@ const counter = function () {
         newValue = currentValue - 1000 > 0 ? currentValue - 1000 : 0;
       }
 
-      if (newValue === 5000) {
+      if (newValue === 7000) {
       	right.style.display = 'none';
       	result.style.gridTemplateColumns = '1fr';
       }else{
@@ -61,7 +61,7 @@ const countertwo = function () {
         newValue = currentValue - 1000 > 0 ? currentValue - 1000 : 0;
       }
 
-      if (newValue === 3000) {
+      if (newValue === 2000) {
       	right.style.display = 'none';
       	result.style.gridTemplateColumns = '1fr';
       }else{
