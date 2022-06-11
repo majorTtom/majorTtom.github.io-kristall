@@ -273,7 +273,7 @@ a:hover {
 .header__nav {
   display: flex;
   justify-content: space-between;
-  width: 530px;
+  width: 620px;
 }
 .header__link {
   text-transform: uppercase;
