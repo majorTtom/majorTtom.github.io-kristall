@@ -468,9 +468,9 @@
   text-transform: uppercase;
   color: #000;
   /*border-bottom: 1px solid #000;*/
-  width: 130px;
+  width: 240px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 90% 10%;
   height: 28px;
 }
 .results__btn:hover {
