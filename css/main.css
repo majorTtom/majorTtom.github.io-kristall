@@ -408,49 +408,49 @@
   border-radius: 75px;
 }
 .results__slider-item:first-child {
-  background-image: url(../img/s1.webp);
+  background-image: url(../img/gallery/photo/r1.webp);
 }
 .results__slider-item:nth-child(2) {
-  background-image: url(../img/s2.webp);
+  background-image: url(../img/gallery/photo/r2.webp);
 }
 .results__slider-item:nth-child(3) {
-  background-image: url(../img/s3.webp);
+  background-image: url(../img/gallery/photo/r3.webp);
 }
 .results__slider-item:nth-child(4) {
-  background-image: url(../img/s4.webp);
+  background-image: url(../img/gallery/photo/r4.webp);
 }
 .results__slider-item:nth-child(5) {
-  background-image: url(../img/s5.webp);
+  background-image: url(../img/gallery/photo/r5.webp);
 }
 .results__slider-item:nth-child(6) {
-  background-image: url(../img/s6.webp);
+  background-image: url(../img/gallery/photo/r6.webp);
 }
 .results__slider-item:nth-child(7) {
-  background-image: url(../img/s7.webp);
+  background-image: url(../img/gallery/photo/r7.webp);
 }
 .results__slider-item:nth-child(8) {
-  background-image: url(../img/s8.webp);
+  background-image: url(../img/gallery/photo/r8.webp);
 }
 .results__slider-item:nth-child(9) {
-  background-image: url(../img/s9.webp);
+  background-image: url(../img/gallery/photo/r9.webp);
 }
 .results__slider-item:nth-child(10) {
-  background-image: url(../img/s10.webp);
+  background-image: url(../img/gallery/photo/r10.webp);
 }
 .results__slider-item:nth-child(11) {
-  background-image: url(../img/s11.webp);
+  background-image: url(../img/gallery/photo/r11.webp);
 }
 .results__slider-item:nth-child(12) {
-  background-image: url(../img/s12.webp);
+  background-image: url(../img/gallery/photo/r12.webp);
 }
 .results__slider-item:nth-child(13) {
-  background-image: url(../img/s13.webp);
+  background-image: url(../img/gallery/photo/r13.webp);
 }
 .results__slider-item:nth-child(14) {
-  background-image: url(../img/s14.webp);
+  background-image: url(../img/gallery/photo/r14.webp);
 }
 .results__slider-item:nth-child(15) {
-  background-image: url(../img/s15.webp);
+  background-image: url(../img/gallery/photo/r15.webp);
 }
 .results__btn {
   /*margin-left: 10%;*/
