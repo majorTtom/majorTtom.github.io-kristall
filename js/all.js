@@ -23,6 +23,14 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
+  $('.mainn__button').on('click', function(){
+    $('.popup').toggleClass('popup__active');
+    $('.fixed').addClass('fixed__block');
+    // $('.header__window').toggleClass('header__window-active')
+  });
+});
+
+$(document).ready(function(){
   $('.main__button-mobile-1').on('click', function(){
     $('.popup').toggleClass('popup__active');
     $('.fixed').addClass('fixed__block');
