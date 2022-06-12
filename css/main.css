@@ -253,7 +253,7 @@
   width: 90%;
 }
 .process__down-wrap {
-  margin-top: 130px;
+  margin-top: 100px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-row-gap: 40px;
@@ -499,7 +499,7 @@
   margin-top: 150px;
 }
 .privilege__wrap {
-  margin-top: 150px;
+  margin-top: 140px;
 }
 .privilege__wrap-up {
   display: grid;
@@ -583,7 +583,7 @@
 }
 
 .feed {
-  height: 800px;
+  height: 750px;
   background-color: #47ABC3;
   color: #fff;
   /* .feed__wrap */
@@ -605,7 +605,7 @@
   color: #fff !important;
 }
 .feed__slider-wrap {
-  margin-top: 115px;
+  margin-top: 80px;
   height: 400px;
   color: #000;
 }
@@ -707,7 +707,7 @@
   margin-top: 100px;
 }
 .ques__list-wrap {
-  margin-top: 160px;
+  margin-top: 100px;
 }
 .ques__item {
   margin-top: 20px;
