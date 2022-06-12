@@ -40,7 +40,6 @@ li {
 
 /* Set core body defaults */
 body {
-  background-color: #E5F1F3;
   /*min-height: 100vh;*/
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
