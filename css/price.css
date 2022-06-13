@@ -54,6 +54,7 @@
 .price__button:hover {
   color: #fff;
   background-color: #47ABC3;
+  opacity: 1 !important;
 }
 .price__button-active {
   color: #fff;
